@@ -13,4 +13,4 @@
 </details> -->
   
   
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/yel-aziz/badge42)
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<yel-aziz>)]
