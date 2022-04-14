@@ -13,4 +13,4 @@
 </details> -->
   
   
-[![yel-aziz's 42 stats](https://badge.mediaplus.ma/black/yel-aziz)](https://github.com/oakoudad/badge42)
+[![yel-aziz's 42 stats](https://badge.mediaplus.ma/black/yel-aziz)](https://github.com/yel-aziz/)
